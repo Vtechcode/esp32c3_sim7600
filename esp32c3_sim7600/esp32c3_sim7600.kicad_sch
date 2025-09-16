@@ -1,0 +1,127 @@
+(kicad_sch
+	(version 20231120)
+	(generator "eeschema")
+	(generator_version "8.0")
+	(uuid "5290e24a-b7ce-4a27-8395-b33115212b5e")
+	(paper "A4")
+	(lib_symbols)
+	(sheet
+		(at 213.995 34.925)
+		(size 45.72 55.88)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill
+			(color 0 0 0 0.0000)
+		)
+		(uuid "14e5a99a-f7ab-4b3f-ba6f-dee8fc0a65a1")
+		(property "Sheetname" "sim7600"
+			(at 213.995 34.2134 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "sim7600.kicad_sch"
+			(at 213.995 91.3896 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(instances
+			(project "esp32c3_sim7600"
+				(path "/5290e24a-b7ce-4a27-8395-b33115212b5e"
+					(page "4")
+				)
+			)
+		)
+	)
+	(sheet
+		(at 27.94 36.195)
+		(size 58.42 57.785)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill
+			(color 0 0 0 0.0000)
+		)
+		(uuid "768a64cc-c794-44c6-afdb-da007f975a91")
+		(property "Sheetname" "power"
+			(at 27.94 35.4834 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "power.kicad_sch"
+			(at 27.94 94.5646 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(instances
+			(project "esp32c3_sim7600"
+				(path "/5290e24a-b7ce-4a27-8395-b33115212b5e"
+					(page "2")
+				)
+			)
+		)
+	)
+	(sheet
+		(at 99.06 35.56)
+		(size 45.085 55.88)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill
+			(color 0 0 0 0.0000)
+		)
+		(uuid "cfd2bdb9-945c-49db-8552-492eca14931e")
+		(property "Sheetname" "esp32c3"
+			(at 99.06 34.8484 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "esp32c3.kicad_sch"
+			(at 99.06 92.0246 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(instances
+			(project "esp32c3_sim7600"
+				(path "/5290e24a-b7ce-4a27-8395-b33115212b5e"
+					(page "3")
+				)
+			)
+		)
+	)
+	(sheet_instances
+		(path "/"
+			(page "1")
+		)
+	)
+)
