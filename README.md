@@ -10,7 +10,8 @@ A custom PCB for wifi, cellular and GPS applications
 - Designed in KiCad 9.0
 
 ## Preview
-![PCB 3D Render](images/pcb_render.png)
+![PCB 3D Render](images/3d/front.png)
 
 ## Schematic
 ![Schematic](images/schematic.pdf)
+
