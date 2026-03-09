@@ -9,6 +9,9 @@ A custom PCB for wifi, cellular and GPS applications
 - USB-C power input
 - Designed in KiCad 9.0
 
+## Preview
+![PCB 3D Render](images/3d/front.png)
+![PCB 3D Render](images/3d/back.png)
 
 ## Schematic
 ![Schematic](images/schematics/power.png)
@@ -18,9 +21,7 @@ A custom PCB for wifi, cellular and GPS applications
 ## PCB Layout
 ![Schematic](images/routing/layout.png)
 
-## Preview
-![PCB 3D Render](images/3d/front.png)
-![PCB 3D Render](images/3d/back.png)
+
 
 
 
